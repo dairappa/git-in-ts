@@ -1,20 +1,20 @@
-# typescript-cli-project
+# git-in-ts
 
 This is a sample project to create a cli tool by TypeScript.
 
 ## How to install sample cli
 
 ```sh
-$ npm install -g shibayu36/typescript-cli-project
-$ typescript-cli-project hoge
+$ npm install -g dairappa/git-in-ts
+$ git-in-ts hoge
 hoge
 ```
 
 If you want to install cli from local, exec following commands.
 
 ```sh
-$ git clone https://github.com/shibayu36/typescript-cli-project.git
-$ cd typescript-cli-project
+$ git clone https://github.com/shibayu36/git-in-ts.git
+$ cd git-in-ts
 $ npm run build
 $ npm link
 ```
